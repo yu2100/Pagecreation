@@ -1,0 +1,16 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px 150px;
+    background-color: burlywood;
+}
+a{
+    text-decoration:none;
+}
+
+
+
+.slackDisplayImage{
+    width: 250px;
+
+}
+
